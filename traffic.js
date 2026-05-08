@@ -5,7 +5,7 @@ const axios = require('axios');
 puppeteer.use(StealthPlugin());
 
 // --- CONFIG ---
-const DIRECT_LINK = "APNAR_MONETAG_LINK_EIKHANE"; // Apnar link-ta eikhane boshan
+const DIRECT_LINK = "https://www.profitablecpmratenetwork.com/ps6gmuwz?key=2f7949a92a531f39ffa88eda7c062d01"; // Apnar link-ta eikhane boshan
 const VISITS_PER_RUN = 5; 
 
 async function runEngine() {
